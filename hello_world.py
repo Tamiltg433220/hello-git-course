@@ -1,8 +1,4 @@
-print("Hello World!")
-print("testing new branch")
-
-i Your branch is up to date with 'origin/master'.
-
+print("Hello World!"
 
 
 
